@@ -1,12 +1,10 @@
-###Minerva  
-
+MINERVA  
 
 AI BOT - convergence of advanced AI, ONSINT(Open Source Intelligence) and Hacking capabilities.  
 
 The Architecture of Minerva is pre-trained to comprehend and process sentiment, textual, audio and pictorial data allowing them to gather analyze a diverse array of information from multiple source.  
 
 As each agent processes and interprets data, enabling Minerva to continuously learn and adapt. This interconnectivity ensures that Minerva remains current with the latest information, quickly identifying patterns, anomalies, and vulnerabilities within global systems.
-
 
 Minerva is a multi-purpose tool that enables data scraping, image search automation, and speech transcription with translation features. The project combines different functionalities using Selenium for web scraping, Tor for anonymous internet searches, Whisper for speech recognition, and Google Translator for text translation.
 
@@ -273,4 +271,34 @@ git add .
 git commit -m "Initial commit with project files and README"
 git push origin main
 ```
+
+---IPFS---
+Publish to IPNS
+1. Data Scrapping
+CID:
+QmUmUy6ycYH6M1vZcA5zM4QUMUAj2NvpZJ5ysEtWtzUZph
+
+Link: https://ipfs.io/ipns/k51qzi5uqu5dhrhteof453lawfd1y1o5aqc6e6c1dwpiympx7ohwak6uau9ftv
+
+2. Image Processing
+CID:
+QmZL3jnuyvGcbY5jvoFFUJMKpwjUeWzwnjNpW3WYPKab64
+
+Link: https://ipfs.io/ipns/k51qzi5uqu5dhrhteof453lawfd1y1o5aqc6e6c1dwpiympx7ohwak6uau9ftv
+
+3. Speech recognition
+CID:
+QmetKuvyA91PWnZoEdcfCKgy5w3ZaJ9g3rVmpVyMBvBSB2
+
+Link: https://ipfs.io/ipns/k51qzi5uqu5dhrhteof453lawfd1y1o5aqc6e6c1dwpiympx7ohwak6uau9ftv
+
+
+
+
+
+
+
+
+
+
 
